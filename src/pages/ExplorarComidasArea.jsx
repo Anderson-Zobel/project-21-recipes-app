@@ -123,9 +123,9 @@ export default function ExplorarComidasArea() {
   return (
     <div>
       <Header />
+      <Navbar />
       {renderOptions()}
       {renderCards()}
-      <Navbar />
     </div>
   );
 }

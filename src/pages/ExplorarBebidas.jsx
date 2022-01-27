@@ -7,8 +7,8 @@ export default function ExplorarBebidas() {
   return (
     <div>
       <Header />
-      <ButtonsExplore type="bebidas" />
       <Navbar />
+      <ButtonsExplore type="bebidas" />
     </div>
   );
 }

@@ -7,8 +7,8 @@ export default function ExportarComidas() {
   return (
     <div>
       <Header />
-      <ButtonsExplore type="comidas" />
       <Navbar />
+      <ButtonsExplore type="comidas" />
     </div>
   );
 }

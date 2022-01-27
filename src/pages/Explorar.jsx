@@ -9,6 +9,7 @@ export default function Explorar() {
   return (
     <div>
       <Header />
+      <Navbar />
       <div className="navi-explore">
         <button
           className="explore-button"
@@ -27,7 +28,6 @@ export default function Explorar() {
           Explore Drinks
         </button>
       </div>
-      <Navbar />
     </div>
   );
 }

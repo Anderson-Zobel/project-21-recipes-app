@@ -26,6 +26,7 @@ export default function ExplorarComidasIngredientes() {
             if (i < TWELVE) {
               return (
                 <Link to="/comidas">
+                  <Navbar />
                   <div
                     className="card cards"
                     data-testid={ `${i}-ingredient-card` }
@@ -51,7 +52,6 @@ export default function ExplorarComidasIngredientes() {
           })
         )}
       </div>
-      <Navbar />
     </div>
   );
 }

@@ -20,6 +20,7 @@ export default function ExplorarBebidasIngredientes() {
   return (
     <div className="container">
       <Header />
+      <Navbar />
       <div className="card-container-ing">
         {(categories.length !== 0) && (
           categories.map((elem, i) => {
@@ -52,7 +53,6 @@ export default function ExplorarBebidasIngredientes() {
           })
         )}
       </div>
-      <Navbar />
     </div>
   );
 }

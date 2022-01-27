@@ -52,8 +52,8 @@ export default function Perfil() {
           Logout
         </button>
       </div>
-
       <Navbar />
+
     </div>
   );
 }

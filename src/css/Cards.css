@@ -35,6 +35,8 @@ body {
 .cards {
   display: inline-block;
   list-style: none;
+  width: 200px;
+  height: 265px;
   margin-left: 20px;
   margin-right: 17px;
   margin-top: 20px;
