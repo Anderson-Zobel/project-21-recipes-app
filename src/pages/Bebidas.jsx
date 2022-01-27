@@ -87,7 +87,6 @@ export default function Bebidas() {
   return (
     <div className="container">
       <Header />
-      <Navbar />
       <div className="navi-category">
         {renderButtons()}
         <button
@@ -99,6 +98,7 @@ export default function Bebidas() {
           All
         </button>
       </div>
+      <Navbar />
       <div className="card-container">
         {filterTrueOrFalse ? renderFiltered() : RenderDrink()}
       </div>

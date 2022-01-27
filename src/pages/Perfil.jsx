@@ -25,6 +25,7 @@ export default function Perfil() {
     <div>
       <Header />
       {getLocal()}
+      <Navbar />
       <div className="navi-profile navi-explore2">
         <button
           className="profile-btn explore-button"
@@ -52,7 +53,6 @@ export default function Perfil() {
           Logout
         </button>
       </div>
-      <Navbar />
 
     </div>
   );

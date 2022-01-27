@@ -21,14 +21,14 @@
 
 .navi-profile {
   background-color: white;
-  display: flex;
+  display: block;
   justify-content: space-between;
   width: 100%;
 }
 
 .email {
   width: 100%;
-  background-color: orange;
+  background-color: white;
   font-size: 30px;
   text-align: center;
   font-weight: bold;
