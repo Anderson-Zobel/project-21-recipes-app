@@ -1,0 +1,114 @@
+/* *,
+*::before,
+*::after {
+  box-sizing: border-box;
+} */
+
+body {
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+.container {
+  flex-direction: column;
+
+  background-color: rgb(216, 216, 216);
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+	/* display: inline-block;
+  flex-direction: row; */
+	/* align-items: center;
+	justify-content: center; */
+	min-height: 100vh;
+	min-width: 100vw;
+  margin: 0;
+  /* overflow: auto; */
+}
+
+/* .cards {
+  display: inline-block;
+  justify-content: space-between;
+  width: 125px;  
+  padding: 20px ;
+  border-radius: 10px;
+} */
+
+.cards {
+  display: inline-block;
+  list-style: none;
+  margin-left: 20px;
+  margin-right: 17px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+
+  width: 200px;
+  /* padding: 5px ; */
+  /* justify-content: space-between; */
+  background-color: white;
+  /* border:1px solid #bfbfbf; */
+  border-radius: 5%;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.38);
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row; */
+  /* overflow: hidden; */
+}
+.card-container{
+  width: 100vw;
+  height: 100vh;
+  /* margin-left: 2px; */
+  margin-top: auto;
+  margin-bottom: auto;
+  /* overflow: hidden; */
+}
+
+.card-container-ing{
+  width:1920px;
+  height: 83vh;
+  overflow: auto;
+}
+.card__title {
+  height: 25px;
+  width: 200px;
+  overflow: hidden;
+  color: #696969;
+  font-size: 1.25rem;
+  font-weight: 300;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.img-card {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  border-radius: 5% 5% 0 0;
+}
+
+.img-card-ingredients-drink {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  border-radius: 5% 5% 0 0;
+}
+
+.cards:hover {
+  -webkit-filter: contrast(125%);
+          filter: contrast(125%);
+  background-color: orange;
+}
+
+.limit-container .cards {
+  display: flex;
+}
+
+

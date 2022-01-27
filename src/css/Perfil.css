@@ -1,0 +1,35 @@
+.profile-btn {
+  background-color: white; /* Green */
+  border: none;
+  color: black;
+  padding: 15px 1%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border: 2px solid white;
+  transition-duration: 0.4s;
+  width: 100%;
+  border: solid 2px;
+  border-color: orange;
+}
+
+.profile-btn:hover {
+  background-color: orange; /* Green */
+  color: white;
+}
+
+.navi-profile {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.email {
+  width: 100%;
+  background-color: orange;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}

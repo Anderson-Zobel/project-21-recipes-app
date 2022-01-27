@@ -1,0 +1,24 @@
+.progress-recipe {
+  bottom: 0;
+  position: fixed;
+  left: 40%;
+  background-color: orange; /* Green */
+  border: none;
+  color: black;
+  padding: 15px 1%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border: 2px solid white;
+  transition-duration: 0.4s;
+  width: 200px;
+  border: solid 2px;
+  border-color: orange;
+  border-radius: 40px;
+}
+
+.progress-recipe:disabled {
+  background-color: white; /* Green */
+  color: black;
+}
