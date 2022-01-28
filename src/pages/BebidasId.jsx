@@ -11,7 +11,7 @@ export default function BebidasId(id) {
   const history = useHistory();
   const [responseDrinks, setResponseDrinks] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [textButton, setTextButton] = useState('Iniciar Receita');
+  const [textButton, setTextButton] = useState('Start Recipe');
   const MIL = 1000;
 
   const checkLocal = async () => {
@@ -21,7 +21,7 @@ export default function BebidasId(id) {
     }
     const keys = Object.keys(getLocal.cocktails);
     if (keys.some((elem) => elem === id.match.params.id)) {
-      setTextButton('Continuar Receita');
+      setTextButton('Continue Recipe');
     }
   };
 

@@ -10,7 +10,7 @@ import '../css/ComidasID.css';
 export default function ComidasID(id) {
   const history = useHistory();
   const [responseFood, setResponseFood] = useState([]);
-  const [textButton, setTextButton] = useState('Iniciar Receita');
+  const [textButton, setTextButton] = useState('Recipe Start');
 
   const returnById = () => (
     fetch(`https://www.themealdb.com/api/json/v1/1/lookup.php?i=${id.match.params.id}`)
@@ -25,7 +25,7 @@ export default function ComidasID(id) {
     }
     const keys = Object.keys(getLocal.meals);
     if (keys.some((elem) => elem === id.match.params.id)) {
-      setTextButton('Continuar Receita');
+      setTextButton('Continue Recipe');
     }
   };
 
