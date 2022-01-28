@@ -6,6 +6,7 @@ import ShareButton from '../components/ShareButton';
 import FavoriteButton from '../components/FavoriteButton';
 import { createInProgressRecipes } from '../services/CreateLocalStorages';
 import '../css/ComidasID.css';
+import backIcon from '../images/go-back-arrow.svg';
 
 export default function ComidasID(id) {
   const history = useHistory();
@@ -41,6 +42,10 @@ export default function ComidasID(id) {
   const { meals } = responseFood;
   const TWENTY = 20;
 
+  const backFoodPage = () => {
+    history.push('/comidas');
+  };
+
   return (
     <div>
       {(responseFood.length === 0) ? null : (
@@ -61,6 +66,13 @@ export default function ComidasID(id) {
             </p>
             <ShareButton dataTestid="share-btn" pathname={ id.location.pathname } />
             <FavoriteButton dataTestId="favorite-btn" apiRetur={ responseFood.meals } />
+            <input
+              type="image"
+              onClick={ () => backFoodPage() }
+              src={ backIcon }
+              alt="food page"
+              className="back-icon"
+            />
             <div className="list-ingredients">
               <h3 className="h3-ing">Ingredients</h3>
               {(Object.entries(meals[0]).filter((elem) => elem[0].includes('Ingredient')
