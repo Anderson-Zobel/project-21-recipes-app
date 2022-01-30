@@ -4,6 +4,7 @@ import FavoriteButton from '../components/FavoriteButton';
 import ShareButton from '../components/ShareButton';
 import { createDOneLocalStorage } from '../services/CreateLocalStorages';
 import '../css/ReceitasProgress.css';
+import BackButton from '../components/BackButton';
 
 function test(id) {
   const initialLocal = JSON.parse(localStorage.getItem('inProgressRecipes'));
@@ -71,6 +72,7 @@ export default function ComidasProgress(id) {
 
   return (
     <div className="div">
+      <BackButton />
       {(loaded) && (
         <div className="container-comidasID">
           <img

@@ -6,6 +6,7 @@ import ShareButton from '../components/ShareButton';
 import FavoriteButton from '../components/FavoriteButton';
 import { createInProgressRecipes } from '../services/CreateLocalStorages';
 import '../css/ComidasID.css';
+import '../css/BackButton.css';
 import BackButton from '../components/BackButton';
 
 export default function ComidasID(id) {
