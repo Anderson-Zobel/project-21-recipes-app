@@ -46,6 +46,7 @@ export default function ComidasID(id) {
     <div>
       {(responseFood.length === 0) ? null : (
         <div className="div">
+          <BackButton />
           <div className="container-comidasID">
             <img
               className="comida-img"
@@ -53,7 +54,6 @@ export default function ComidasID(id) {
               alt="Food"
               data-testid="recipe-photo"
             />
-            <BackButton />
             <h1 className="h1-title" data-testid="recipe-title">{meals[0].strMeal}</h1>
             <p
               className="comida-text"
