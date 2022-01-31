@@ -6,6 +6,7 @@ import RecommendationDrink from '../components/RecommendationDrink';
 import ShareButton from '../components/ShareButton';
 import '../css/IniciarReceita.css';
 import { createInProgressRecipes } from '../services/CreateLocalStorages';
+import BackButton from '../components/BackButton';
 
 export default function BebidasId(id) {
   const history = useHistory();
@@ -50,6 +51,7 @@ export default function BebidasId(id) {
     <div>
       {(responseDrinks.length !== 0 && responseDrinks) && (
         <div className="container-comidasID">
+          <BackButton />
           <img
             className="comida-img"
             src={ drinks[0].strDrinkThumb }
