@@ -49,9 +49,9 @@ export default function BebidasId(id) {
 
   return (
     <div>
+      <BackButton />
       {(responseDrinks.length !== 0 && responseDrinks) && (
         <div className="container-comidasID">
-          <BackButton />
           <img
             className="comida-img"
             src={ drinks[0].strDrinkThumb }
