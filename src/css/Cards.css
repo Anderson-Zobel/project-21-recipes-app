@@ -49,14 +49,7 @@ body {
   /* border:1px solid #bfbfbf; */
   border-radius: 5%;
   box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.38);
-  /* display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row; */
-  /* overflow: hidden; */
+
 }
 .card-container{
   width: 100vw;
