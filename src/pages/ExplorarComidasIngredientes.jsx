@@ -20,13 +20,13 @@ export default function ExplorarComidasIngredientes() {
   return (
     <div className="container">
       <Header />
+      <Navbar />
       <div className="card-container-ing">
         {(categories.length !== 0) && (
           categories.map((elem, i) => {
             if (i < TWELVE) {
               return (
                 <Link to="/comidas">
-                  <Navbar />
                   <div
                     className="card cards"
                     data-testid={ `${i}-ingredient-card` }
