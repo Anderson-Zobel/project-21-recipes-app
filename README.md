@@ -17,7 +17,7 @@
  - Criar Hooks customizados
 
 ## Deploy
- - [Receitas-APP](receitas-app-pied.vercel.app)
+ - [Receitas-APP](https://receitas-app-pied.vercel.app/)
 
 ## Preview do Projeto
 ![](receitas-app.gif)
