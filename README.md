@@ -1,4 +1,4 @@
-# Receitas-APP 
+# Recipes-APP 
 ## 📖 Sobre
 
 - A proposta desse projeto era desenvolver um app de receitas, utilizando React: Hooks e Context API.<br>
@@ -36,7 +36,7 @@
  - Criar Hooks customizados
 
 ## 💻 Deploy
- - [Receitas-APP](https://receitas-app-pied.vercel.app/)
+ - [Recipes-APP](https://receitas-app-pied.vercel.app/)
 
 ## 📺 Preview do Projeto
 ![](receitas-app.gif)
