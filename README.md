@@ -1,17 +1,17 @@
 # Receitas-app 
-## Linguagens / Ferramentas / Tecnologias
+## 🧰 Tecnologias  
 **Stack: Front-end**
 <div style="display: inline_block">
  
-   <img align="center" alt="HTML" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-   <img align="center" alt="CSS" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-   <img align="center" alt="JS" width="45"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-   <img align="center" alt="REACT" width="45"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
-   <img align="center" alt="VSCODE" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
+   <img align="center" alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+   <img align="center" alt="CSS" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+   <img align="center" alt="JS" width="30"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+   <img align="center" alt="REACT" width="30"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
+   <img align="center" alt="VSCODE" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
  
 </div>
 
-## Desenvolvimento:
+## 👷‍♂️ Desenvolvimento:
 - Projeto Final de Front-end realizado na [Trybe](https://www.betrybe.com/)<br>
 - Realizado em grupo e pair programming
 - Integrantes do Grupo:<br>
@@ -20,7 +20,7 @@
 &ensp;[Daniel Tavares](https://github.com/dev-tavares)<br>
 &ensp;[Luan Vitor](https://github.com/LuanVittor)<br>
 
-## Habilidades
+## 🏃 Habilidades
  - Optar por usar _Redux_ ou _Context API_ para gerenciar estado
  - Utilizar a biblioteca _React-Redux_ (caso _Redux_ seja sua escolha)
  - Utilizar o _React Hook useState_
@@ -28,8 +28,8 @@
  - Utilizar o _React Hook useEffect_
  - Criar Hooks customizados
 
-## Deploy
+## 💻 Deploy
  - [Receitas-APP](https://receitas-app-pied.vercel.app/)
 
-## Preview do Projeto
+## 📺 Preview do Projeto
 ![](receitas-app.gif)
