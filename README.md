@@ -4,9 +4,12 @@ Realizado em grupo e pair programming
 
 ### Integrantes do Grupo:
 
-&emsp;[Anderson Zobel](https://github.com/Anderson-Zobel)<br>
-&emsp;[Arthur Lisboa](https://github.com/Lisboaarthur)<br>
-&emsp;[Daniel Tavares](https://github.com/dev-tavares)<br>
-&emsp;[Luan Vitor](https://github.com/LuanVittor)<br>
+&ensp;[Anderson Zobel](https://github.com/Anderson-Zobel)<br>
+&ensp;[Arthur Lisboa](https://github.com/Lisboaarthur)<br>
+&ensp;[Daniel Tavares](https://github.com/dev-tavares)<br>
+&ensp;[Luan Vitor](https://github.com/LuanVittor)<br>
 
-Repositório em contrução
+
+
+
+**Repositório em contrução**
