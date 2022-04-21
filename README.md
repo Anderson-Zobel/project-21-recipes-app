@@ -2,7 +2,7 @@
 Projeto Final de Front-end na Trybe
 Realizado em grupo e pair programming
 
-- Integrantes do Grupo:
+### Integrantes do Grupo:
 
 &emsp;[Anderson Zobel](https://github.com/Anderson-Zobel)<br>
 &emsp;[Arthur Lisboa](https://github.com/Lisboaarthur)<br>
