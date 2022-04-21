@@ -1,5 +1,5 @@
 # [FrontEnd] Receitas-app
-### Desenvolvimento:
+## Desenvolvimento:
 - Projeto Final de Front-end realizdo na [Trybe](https://www.betrybe.com/)<br>
 - Realizado em grupo e pair programming
 
