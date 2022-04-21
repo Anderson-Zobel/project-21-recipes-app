@@ -16,5 +16,8 @@
  - Utilizar o _React Hook useEffect_
  - Criar Hooks customizados
 
+## Deploy
+ - [Receitas-APP]()
+
 ## Preview do Projeto
 ![](receitas-app.gif)
