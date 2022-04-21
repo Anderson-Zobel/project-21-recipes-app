@@ -15,7 +15,6 @@
    <img align="center" alt="CSS" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="JS" width="30"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="REACT" width="30"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
-   <img align="center" alt="VSCODE" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
  
 </div>
 
