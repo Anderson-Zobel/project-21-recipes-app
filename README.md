@@ -1,5 +1,13 @@
 # Receitas-app 
+## 📖 Sobre
+
+A proposta desse projeto era desenvolver um app de receitas, utilizando React: Hooks e Context API!
+Nela será possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks.
+A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
+
+
 ## 🧰 Tecnologias  
+
 **Stack: Front-end**
 <div style="display: inline_block">
  
