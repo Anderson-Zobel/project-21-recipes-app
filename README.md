@@ -1,6 +1,18 @@
-# [Front-end] Receitas-app
+# Receitas-app 
+## Linguagens / Ferramentas / Tecnologias
+**Stack: Front-end**
+<div style="display: inline_block">
+ 
+   <img align="center" alt="HTML" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+   <img align="center" alt="CSS" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+   <img align="center" alt="JS" width="45"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+   <img align="center" alt="REACT" width="45"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
+   <img align="center" alt="VSCODE" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
+ 
+</div>
+
 ## Desenvolvimento:
-- Projeto Final de Front-end realizdo na [Trybe](https://www.betrybe.com/)<br>
+- Projeto Final de Front-end realizado na [Trybe](https://www.betrybe.com/)<br>
 - Realizado em grupo e pair programming
 - Integrantes do Grupo:<br>
 &ensp;[Anderson Zobel](https://github.com/Anderson-Zobel)<br>
