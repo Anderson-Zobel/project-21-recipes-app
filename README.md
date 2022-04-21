@@ -1,6 +1,6 @@
 # [FrontEnd] Receitas-app
-Projeto Final de Front-end na Trybe
-Realizado em grupo e pair programming
+- Projeto Final de Front-end na Trybe<br>
+- Realizado em grupo e pair programming<br>
 
 ### Integrantes do Grupo:
 
