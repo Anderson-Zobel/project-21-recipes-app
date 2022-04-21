@@ -1,4 +1,4 @@
-# Receitas-app 
+# Receitas-APP 
 ## 📖 Sobre
 
 - A proposta desse projeto era desenvolver um app de receitas, utilizando React: Hooks e Context API.<br>
