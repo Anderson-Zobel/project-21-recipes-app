@@ -15,3 +15,6 @@
  - Utilizar o _React Hook useContext_
  - Utilizar o _React Hook useEffect_
  - Criar Hooks customizados
+
+## Preview do Projeto
+![](receitas-app.gif)
